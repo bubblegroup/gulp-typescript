@@ -12,7 +12,7 @@ var __rest = (this && this.__rest) || function (s, e) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const stream = require("stream");
-const vfs = require("vinyl-fs");
+const vfs = require("@bubblegroup/vinyl-fs");
 const path = require("path");
 const PluginError = require("plugin-error");
 const utils = require("./utils");

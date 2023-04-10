@@ -1,6 +1,6 @@
 import * as stream from 'stream';
 import * as ts from 'typescript';
-import * as vfs from 'vinyl-fs';
+import * as vfs from '@bubblegroup/vinyl-fs';
 import * as path from 'path';
 import * as PluginError from 'plugin-error';
 import * as VinylFile from 'vinyl';
