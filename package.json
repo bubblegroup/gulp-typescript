@@ -1,6 +1,6 @@
 {
   "name": "@bubblegroup/gulp-typescript",
-  "version": "6.0.0-alpha.4",
+  "version": "6.0.0-alpha.5",
   "description": "A typescript compiler for gulp with incremental compilation support.",
   "homepage": "https://github.com/ivogabe/gulp-typescript",
   "bugs": "https://github.com/ivogabe/gulp-typescript/issues",
@@ -72,7 +72,7 @@
     "vinyl": "^2.2.0"
   },
   "devDependencies": {
-    "@bubblegroup/gulp": "^4.0.4",
+    "@bubblegroup/gulp": "^4.0.5",
     "@types/node": "12.7.5",
     "@types/plugin-error": "0.1.1",
     "@types/through2": "2.0.34",
